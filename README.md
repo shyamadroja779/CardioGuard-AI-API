@@ -1,4 +1,4 @@
-# 🫀 Cardiovascular Disease Predictor
+# 🫀 CardioGuard-AI 
 **A Complete Machine Learning Implementation**
 
 [![University](https://img.shields.io/badge/University-Darshan_University-blue.svg)](https://www.darshan.ac.in/)
