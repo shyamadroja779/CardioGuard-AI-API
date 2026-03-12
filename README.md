@@ -20,8 +20,9 @@ This project involves building a full-stack Machine Learning application to pred
 ## 🛠️ Tech Stack & Tools
 * **Core Logic:** `NumPy`, `Pandas` 
 * **Visualization:** `Matplotlib`, `Seaborn`, `Plotly` 
-* **Backend:** `Flask` or `FastAPI` 
-* **Evaluation:** `Scikit-learn` 
+* **Backend:** `Flask` 
+* **Evaluation:** `Scikit-learn`
+* **Other** `Joblib` 
 
 ---
 
